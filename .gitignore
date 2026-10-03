@@ -4,3 +4,6 @@ target/
 .env
 .idea/
 .vscode/
+# Ignore local secrets
+src/main/resources/application-local.properties
+.env
